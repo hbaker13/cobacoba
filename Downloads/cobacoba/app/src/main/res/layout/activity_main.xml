@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ListView
+        android:id="@+id/songlist"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+    </ListView>
+    <!--<TextView
+        android:id="@+id/textbacksound"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/pake"
+        android:textSize="25sp"
+        android:textColor="@color/songname"
+        android:layout_marginStart="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:textAlignment="center"/>
+
+    <ToggleButton
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="onToggleClicked"
+        android:textColor="@color/colorPrimaryDark"
+        android:textOn="@string/stop"
+        android:textOff="@string/play"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="300dp"
+        android:layout_marginStart="300dp" />
+
+    <TextView
+        android:id="@+id/bellring"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/bell_ring"
+        android:textSize="25sp"
+        android:textColor="@color/songname"
+        android:layout_marginLeft="10dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="80dp"
+        android:textAlignment="center"/>
+
+    <ToggleButton
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="toggleclicked"
+        android:textColor="@color/colorPrimaryDark"
+        android:textOn="@string/stop"
+        android:textOff="@string/play"
+        android:layout_marginTop="80dp"
+        android:layout_marginLeft="300dp"
+        android:layout_marginStart="300dp"
+        />
+
+    <TextView
+        android:id="@+id/calm"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/calm_music"
+        android:textSize="25sp"
+        android:textColor="@color/songname"
+        android:layout_marginLeft="10dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="150dp"
+        android:textAlignment="center"/>
+
+    <ToggleButton
+        android:id="@+id/button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="onToggleClicked2"
+        android:textColor="@color/colorPrimaryDark"
+        android:textOn="@string/stop"
+        android:textOff="@string/play"
+        android:layout_marginTop="150dp"
+        android:layout_marginLeft="300dp"
+        android:layout_marginStart="300dp" />
+
+    <TextView
+        android:id="@+id/chill"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/chill_tune"
+        android:textSize="25sp"
+        android:textColor="@color/songname"
+        android:layout_marginLeft="10dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="220dp"
+        android:textAlignment="center"/>
+
+    <ToggleButton
+        android:id="@+id/button4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="onToggleClicked3"
+        android:textColor="@color/colorPrimaryDark"
+        android:textOn="@string/stop"
+        android:textOff="@string/play"
+        android:layout_marginTop="220dp"
+        android:layout_marginLeft="300dp"
+        android:layout_marginStart="300dp" />
+
+    <TextView
+        android:id="@+id/nature"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/nature"
+        android:textSize="25sp"
+        android:textColor="@color/songname"
+        android:layout_marginLeft="10dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="290dp"
+        android:textAlignment="center"/>
+
+    <ToggleButton
+        android:id="@+id/button5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="onToggleClicked4"
+        android:textColor="@color/colorPrimaryDark"
+        android:textOn="@string/stop"
+        android:textOff="@string/play"
+        android:layout_marginTop="290dp"
+        android:layout_marginLeft="300dp"
+        android:layout_marginStart="300dp" />
+
+    <TextView
+        android:id="@+id/piano"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/piano_tune"
+        android:textSize="25sp"
+        android:textColor="@color/songname"
+        android:layout_marginLeft="10dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="360dp"
+        android:textAlignment="center"/>
+
+    <ToggleButton
+        android:id="@+id/button6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="onToggleClicked5"
+        android:textColor="@color/colorPrimaryDark"
+        android:textOn="@string/stop"
+        android:textOff="@string/play"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="300dp"
+        android:layout_marginStart="300dp" />*/-->
+</RelativeLayout>

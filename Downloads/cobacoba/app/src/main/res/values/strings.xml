@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Ringtone</string>
+    <string name="play">PLAY</string>
+    <string name="stop">STOP</string>
+    <string name="pake">Ambient</string>
+    <string name="bell_ring">Bell Ringing</string>
+    <string name="calm_music">Calming Music</string>
+    <string name="chill_tune">Chill Vibe</string>
+    <string name="nature">Nature</string>
+    <string name="piano_tune">Piano Tune</string>
+
+    <string-array name="soundEntries">
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>
